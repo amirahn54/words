@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="https://wordsmith.org/awad/rss1.xml" rel="self" type="application/rss+xml"/>
+<title>Wordsmith.org: Today's Word</title>
+<link>https://wordsmith.org/</link>
+<copyright>Copyright 1994-2021 Wordsmith.org</copyright>
+<description>The magic of words - that's what Wordsmith.org is about.</description>
+<language>en-us</language>
+<ttl>1440</ttl>
+<item>
+<title>midas</title>
+<link>https://wordsmith.org/words/midas.html</link>
+<description>noun: 1. One with the ability to easily turn anything profitable. 2. One who is extremely wealthy.</description>
+</item>
+</channel>
+</rss>
